@@ -1,0 +1,5 @@
+semua untuk Tipe Data angka
+angka% = -32.768 s/d 32.767
+angka& = >32.767
+angka! = angka pecahan (desimal)
+angka4 = angka biasa
